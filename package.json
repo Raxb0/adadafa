@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "club-atticus": "^1.1.3",
+    "colors": "^1.4.0",
+    "cpu-stat": "^2.0.1",
+    "discord-nsfw": "^1.3.0",
+    "discord.js": "^14.7.1",
+    "fs": "^0.0.1-security",
+    "megadb": "^3.4.0",
+    "moment": "^2.29.4",
+    "nsfw-discord": "^7.0.0"
+  }
+}
